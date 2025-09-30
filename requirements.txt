@@ -1,0 +1,9 @@
+# Core dependencies will be added as development progresses
+
+fastapi
+uvicorn[standard]
+
+# Optional extras (uncomment if needed later)
+# sqlalchemy
+# jinja2
+# pydantic
